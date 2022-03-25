@@ -1,0 +1,9 @@
+id,incident_type,country
+AAA,phishing,KR
+BBB,phishing,KR
+CCC,phishing,JP
+YYY,phishing,KR
+EEE,leak,KR
+ZZZ,DDoS,KR
+FFF,DDoS,KR
+GGG,DDoS,KR

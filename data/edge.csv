@@ -1,0 +1,14 @@
+from,to,behavior,info_src
+AAA,BBB,웹셸 생성,access-log
+AAA,CCC,웹셸 접근,access-log
+AAA,YYY,피싱 페이지 생성,access-log
+BBB,YYY,웹셸 접근,access-log
+BBB,CCC,SQL 인젝션,access-log
+CCC,AAA,웹셸 접근,access-log
+CCC,BBB,웹셸 접근,access-log
+YYY,CCC,웹셸 생성,access-log
+EEE,AAA,웹셸 생성,access-log
+ZZZ,FFF,웹셸 접근,access-log
+GGG,FFF,DDoS,access-log
+BBB,AAA,웹셸 생성,access-log
+GGG,BBB,DDoS,access-log
